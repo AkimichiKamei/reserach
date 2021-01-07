@@ -1,0 +1,41 @@
+.btn-circle-3d-dent {
+  display: inline-block;
+  text-decoration: none;
+  color: #668ad8;
+  width: 120px;
+  height: 120px;
+  line-height: 120px;
+  border-radius: 50%;
+  border: solid 2px #668ad8;
+  text-align: center;
+  overflow: hidden;
+  font-weight: bold;
+  transition: .4s;
+}
+
+.btn-circle-border-simple:hover {
+  background: #b3e1ff;
+}
+
+#output1 {
+  font-size: 28px;
+  font-family: Lucida Console, Courier, monospace;
+  font-style: normal;
+}
+
+
+#btn--orange,
+#btn--orange {
+  color: #fff;
+  background-color: hsl(300, 82%, 24%);
+}
+#btn--orange:hover,
+#btn--orange:hover {
+  color: #fff;
+  background: #2f89f0;
+}
+
+#btn--radius {
+   border-radius: 100vh;
+}
+
